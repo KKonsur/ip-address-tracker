@@ -7,9 +7,9 @@
 
 # testing
 /coverage
-
 # production
 /build
+/style-guide.md
 
 # misc
 .DS_Store
